@@ -14,7 +14,7 @@ Excelファイルを画像ファイルに変換します。
 ./excel2img.exe /t 対象画像ファイルパス /o 出力先ファイル名
 
 # One By One
-./img2excel.exe /t tako.xlsx /o tako.png
-./img2excel.exe /t tanuki.xlsx /o tanuki.png
-./img2excel.exe /t suzume.xlsx /o suzume.png
+./excel2img.exe /t tako.xlsx /o tako.png
+./excel2img.exe /t tanuki.xlsx /o tanuki.png
+./excel2img.exe /t suzume.xlsx /o suzume.png
 ```
