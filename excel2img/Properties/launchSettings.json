@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "excel2img": {
+      "commandName": "Project",
+      "commandLineArgs": "/t ./animal.xlsx"
+    }
+  }
+}
