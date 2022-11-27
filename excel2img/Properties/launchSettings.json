@@ -2,7 +2,7 @@
   "profiles": {
     "excel2img": {
       "commandName": "Project",
-      "commandLineArgs": "/t ./target.xlsx"
+      "commandLineArgs": "/t ./animal.xlsx"
     }
   }
 }
