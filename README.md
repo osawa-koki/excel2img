@@ -2,6 +2,8 @@
 
 Excelファイルを画像ファイルに変換します。  
 
+![成果物](docs/img/fruits.gif)  
+
 ## 使用した画像ファイル
 
 - [タコ](https://frame-illust.com/?p=13667)
